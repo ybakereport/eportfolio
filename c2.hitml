@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="shortcut icon" href="assets/images/mountain-1080p-wallpaper-128x72.png" type="image/x-icon">
+  <meta name="description" content="site discription">
+  <title>chapters base page</title>
+  <link rel="stylesheet" href="assets/web/assets/ybi-icons/ybi-icons.css">
+  <link rel="stylesheet" href="assets/tether/tether.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="assets/soundcloud-plugin/style.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="stylesheet" href="assets/ybi/css/ybi-additional.css" type="text/css">
+  
+  
+  
+</head>
+<body>
+<section class="menu cid-qyUsz0rkU3" once="menu" id="menu1-6" data-rv-view="502">
+
+    
+
+    <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top navbar-toggleable-sm">
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </button>
+        <div class="menu-logo">
+            <div class="navbar-brand">
+                
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-4" href="index.html">Yousif Baker</a></span>
+            </div>
+        </div>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item">
+                    <a class="nav-link link text-white display-4" href="index.html">
+                        <span class="ybii-home ybi-iconfont ybi-iconfont-btn"></span>&nbsp;Home &nbsp; &nbsp;&nbsp;</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link link text-white dropdown-toggle display-4" href="index.html" data-toggle="dropdown-submenu" aria-expanded="false"><span class="ybii-menu ybi-iconfont ybi-iconfont-btn"></span>&nbsp;chapters</a><div class="dropdown-menu"><a class="text-white dropdown-item display-4" href="index.html">chapter 1</a><a class="text-white dropdown-item display-4" href="index.html">chapter 2</a><a class="text-white dropdown-item display-4" href="index.html">chapter 3</a><a class="text-white dropdown-item display-4" href="index.html">chapter 4</a><a class="text-white dropdown-item display-4" href="index.html">chapter 5</a><a class="text-white dropdown-item display-4" href="index.html">chapter 6</a><a class="text-white dropdown-item display-4" href="index.html">chapter 7</a><a class="text-white dropdown-item display-4" href="index.html">chapter 8</a><a class="text-white dropdown-item display-4" href="index.html">chapter 9</a><a class="text-white dropdown-item display-4" href="index.html">chapter 10</a><a class="text-white dropdown-item display-4" href="index.html">chapter 11</a><a class="text-white dropdown-item display-4" href="index.html">chapter 12</a><a class="text-white dropdown-item display-4" href="index.html">chapter 13</a><a class="text-white dropdown-item display-4" href="index.html">chapter 14</a><a class="text-white dropdown-item display-4" href="index.html">chapter 15</a></div>
+                </li></ul>
+            
+        </div>
+    </nav>
+</section>
+
+<section class="cid-qyUUHQUCcr ybi-fullscreen" data-bg-video="https://youtu.be/aCuJmagoSew" id="header2-a" data-rv-view="496">
+
+    
+
+    <div class="ybi-overlay" style="opacity: 0.5; background-color: rgb(62, 26, 104);"></div>
+
+    <div class="container align-center">
+        <div class="row justify-content-md-center">
+            <div class="ybi-white col-md-10">
+                <h1 class="ybi-section-title ybi-bold pb-3 ybi-fonts-style display-1">CHAPTER 2&nbsp;</h1>
+                
+                <p class="ybi-text pb-3 ybi-fonts-style display-5">WELCOME TO CHAPTER 2</p>
+                
+            </div>
+        </div>
+    </div>
+    <div class="ybi-arrow hidden-sm-down" aria-hidden="true">
+        <a href="#next">
+            <i class="ybii-down ybi-iconfont"></i>
+        </a>
+    </div>
+</section>
+
+<section class="ybi-section content4 cid-qyV0RDeAXh" id="content4-b" data-rv-view="500">
+
+    
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="title col-12 col-md-8">
+                <h2 class="align-center pb-3 ybi-fonts-style display-2">brief notes of the chapter&nbsp;</h2>
+                <h3 class="ybi-section-subtitle align-center ybi-light ybi-fonts-style display-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras metus nunc, faucibus eget suscipit vel, pulvinar et odio. Vivamus placerat lacinia volutpat. Mauris ut sodales mauris, sed efficitur augue. Etiam accumsan orci turpis, in blandit mi accumsan et. Sed ut porttitor dolor, et dapibus magna. Aliquam dignissim, ligula at eleifend sollicitudin, mauris justo posuere metus, id imperdiet arcu magna nec eros. Suspendisse tincidunt quam ac eros semper, et suscipit nulla elementum.
+<div>
+</div><div>Ut efficitur mauris rhoncus ultrices pretium. Praesent vitae feugiat metus. Fusce iaculis sapien a justo blandit, id tincidunt ipsum molestie. Nulla gravida, felis sed ultricies efficitur, leo turpis consectetur velit, vel pellentesque tortor sem sed nisi. Nulla vel pharetra lorem. Sed ut egestas lorem. Vestibulum et molestie neque, eu porttitor sapien. Aenean placerat ac ante id elementum. Suspendisse non nunc vel ex facilisis egestas at sit amet dui.</div></h3>
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="ybi-section info2 cid-qyV1xIForb" id="info2-c" data-rv-view="504">
+
+    
+
+    
+
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="media-container-column col-12 col-lg-3 col-md-4">
+                <div class="ybi-section-btn align-left py-4"><a class="btn btn-primary display-4" href="booklets/booklet.pdf" target="_blank">
+                    <span class="ybii-preview ybi-iconfont"></span>
+                    clicl to view</a></div>
+            </div>
+            <div class="media-container-column title col-12 col-lg-7 col-md-6">
+                <h2 class="align-right ybi-bold ybi-white pb-3 ybi-fonts-style display-2">BOOKLET PDF</h2>
+                <h3 class="ybi-section-subtitle align-right ybi-light ybi-white ybi-fonts-style display-5">this is a link to the bookelt</h3>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section once="" class="cid-qyUO9qaTN9" id="footer6-7" data-rv-view="507">
+
+    
+
+    
+
+    <div class="container">
+        <div class="media-container-row align-center ybi-white">
+            <div class="col-12">
+                <p class="ybi-text mb-0 ybi-fonts-style display-7">
+                    © Copyright 2017 Yousif Baker - All Rights Reserved
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+  <script src="assets/web/assets/jquery/jquery.min.js"></script>
+  <script src="assets/popper/popper.min.js"></script>
+  <script src="assets/tether/tether.min.js"></script>
+  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="assets/smooth-scroll/smooth-scroll.js"></script>
+  <script src="assets/jquery-mb-ytplayer/jquery.mb.ytplayer.min.js"></script>
+  <script src="assets/jquery-mb-vimeo_player/jquery.mb.vimeo_player.js"></script>
+  <script src="assets/dropdown/js/script.min.js"></script>
+  <script src="assets/touch-swipe/jquery.touch-swipe.min.js"></script>
+  <script src="assets/theme/js/script.js"></script>
+  
+  
+</body>
+</html>
